@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "What kind of legal help do you need?",
+    "subtitle": "Select a category below to get started",
+    "categories": {
+      "delayed_salary": "Delayed Salary 💰",
+      "domestic_violence": "Domestic Violence 🛡️",
+      "land_dispute": "Land Dispute 🏡",
+      "cyber_fraud": "Cyber Fraud 💻",
+      "consumer_complaint": "Consumer Complaint 🧾",
+      "police_complaint": "Police Complaint 🚔",
+      "labour_rights": "Labour Rights ⚒️",
+      "other": "Other ❓"
+    },
+    "police_locator": {
+      "title": "Emergency SOS",
+      "button": "Find Nearest Police Station",
+      "locating": "Locating...",
+      "route": "Route",
+      "search_again": "Search Again"
+    },
+    "footer": "Legal-Vani connects you with your rights",
+    "logout": "Logout",
+    "signin": "Sign In"
+  },
+  "analyze": {
+    "title": "Your Legal Issue",
+    "placeholder": "Describe your legal issue in detail or use Voice Input below...",
+    "button": "Get Help",
+    "analyzing": "Analyzing issue..."
+  },
+  "results": {
+    "start_over": "Start Over",
+    "title": "Analysis Complete",
+    "subtitle": "Review your rights, actions, and authorities below.",
+    "emergency": "Emergency Intervention Required",
+    "emergency_desc": "This is a sensitive issue, please reach out to authorities immediately.",
+    "original_input": "Original Input",
+    "legal_rights": "Your Legal Rights",
+    "action_steps": "Step-by-Step Action",
+    "authority": "Authority to Approach",
+    "documents": "Required Documents",
+    "generate_pdf": "Generate Formal Complaint"
+  },
+  "auth": {
+    "title": "LegalVani",
+    "subtitle": "Your Details",
+    "signin_tab": "Sign In",
+    "create_tab": "Create Account",
+    "phone": "Phone Number",
+    "password": "Password",
+    "fullname": "Full Name",
+    "age": "Age",
+    "next": "Next",
+    "otp_title": "Verification",
+    "otp_desc": "Enter the 6-digit code sent to your phone",
+    "verify_btn": "Verify & Continue"
+  }
+}

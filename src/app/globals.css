@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --background: #1a1311;
+  --foreground: #eae6df;
+}
+
+@theme {
+  --font-sans: var(--font-noto-sans);
+  
+  --color-brand-bg: #1a1311;
+  --color-brand-panel: #2a211e;
+  --color-brand-gold: #c9a86a;
+  --color-brand-gold-light: #e0c289;
+  --color-brand-gold-dark: #a88849;
+  --color-brand-text: #eae6df;
+  --color-brand-text-muted: #9e8e82;
+}
+
+body {
+  background-color: var(--color-brand-bg);
+  background-image: radial-gradient(circle at top, #2a211e 0%, #1a1311 100%);
+  color: var(--color-brand-text);
+  min-height: 100vh;
+}
+
+/* Custom utility for the glowing gold button effect */
+.glow-gold {
+  box-shadow: 0 0 20px rgba(201, 168, 106, 0.4);
+}
+.glow-gold:hover {
+  box-shadow: 0 0 30px rgba(201, 168, 106, 0.6);
+}
