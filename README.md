@@ -2,7 +2,7 @@
   
 # ⚖️ Legal-Vani 
 
-**AI-powered, voice-first legal assistance platform for Indian citizens.**
+**AI-powered, voice-first legal assistance platform for Indian citizens in their native language.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -81,6 +81,5 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Credits
-This project was proudly built by:
-* **Shubham Shaw**
+This project was built by:
 * **Madhurya Dutta**
