@@ -54,6 +54,7 @@
     "next": "Next",
     "otp_title": "Verification",
     "otp_desc": "Enter the 6-digit code sent to your phone",
-    "verify_btn": "Verify & Continue"
+    "verify_btn": "Verify & Continue",
+    "select_language": "Select Language"
   }
 }
