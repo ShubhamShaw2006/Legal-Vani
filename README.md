@@ -81,4 +81,6 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Credits
-Developed by Shubham.
+This project was proudly built by:
+* **Shubham Shaw**
+* **Madhurya Dutta**
