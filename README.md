@@ -82,4 +82,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Credits
 This project was built by:
+* **Shubham Shaw**
 * **Madhurya Dutta**
